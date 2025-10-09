@@ -14,3 +14,8 @@ Step 3:
 rebuild GRUB so the changes take effect by command: sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
 (pic4.3)
+
+Step4:
+Reboot and try to go to GRUB bootloader to see if they require login or not
+
+(pic4.4)
