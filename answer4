@@ -1,0 +1,5 @@
+Step 1:
+create GRUB hash password by command: grub2-mkpasswd-pbkdf2
+
+Step 2:
+
