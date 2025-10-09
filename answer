@@ -1,0 +1,4 @@
+1. to check all mount-point 
+  => df -h
+
+A mount point is a directory in the Linux file system where a storage device (like a partition, USB drive, or network storage) is attached or "mounted." After mounting, the system can read/write files to the device as part of the directory tree.
